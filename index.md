@@ -39,10 +39,11 @@ If you want to embed images, this is how you do it:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
 As Kanye West said:
 
 > We're living the future so
 > the present is our past.
+
+http://github.com - automatic!
+[GitHub](http://github.com)
